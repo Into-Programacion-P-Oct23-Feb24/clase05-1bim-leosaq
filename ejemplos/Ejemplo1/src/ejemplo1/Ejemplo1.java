@@ -22,17 +22,18 @@ public class Ejemplo1 {
         if (promedio >= 7.5) {
             System.out.printf("Estudiante aprobado con un "
                     + "promedio: %.2f\n", promedio);
-        }
+        } //finalizacion de la linea 22
 
-        if (promedio > 7.5) {
+        if (promedio >=7.5) {
             System.out.printf("Estudiante aprobado con un "
                     + "promedio: %.2f\n", promedio);
-        }
+        } //finalizacion de la linea 27
 
         if (promedio < 7.5) {
             System.out.printf("Estudiante aprobado con un "
                     + "promedio: %.2f\n", promedio);
-        }
-    }
+        } //finalizacion de la linea 32
+    } //finalizacion del main
 
 }
+                        
